@@ -1,7 +1,7 @@
 # PRODIGY_CS_3
 A tool that assesses the strength of a password based on specific criteria and provides real-time feedback. The interface features a dark theme with neon lights for an attractive and user-friendly experience. It also includes a button to copy the password to the clipboard.
 
-# Password Complexity Checker with Dark Background and Neon Lights
+# Password Complexity Checker 
 
 ## Description
 The **Password Complexity Checker** is a tool designed to assess the strength of a password based on specific criteria and provide real-time feedback. It features an attractive dark theme with neon lights to enhance user experience. The tool evaluates passwords based on their length, presence of uppercase and lowercase letters, numbers, and special characters, and provides a visual indication of password strength. Additionally, it includes a button to copy the password to the clipboard.
